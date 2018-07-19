@@ -1,0 +1,23 @@
+{
+  "name": "visualizers",
+  "version": "1.0.0",
+  "description": "Audio visualizers magic",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PraveenKumarRana/Audio-Visualizers.git"
+  },
+  "author": "Praveen Kumar Rana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PraveenKumarRana/Audio-Visualizers/issues"
+  },
+  "homepage": "https://github.com/PraveenKumarRana/Audio-Visualizers#readme",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.16.3"
+  }
+}
